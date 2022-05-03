@@ -1,0 +1,184 @@
+body{
+
+
+height: 100vh;
+position: absolute;
+width: 1280px;
+
+
+
+
+}
+
+h1{
+
+position: relative;
+left:110px;
+}
+
+
+h2{
+
+position: relative;
+left:500px;
+}
+
+
+h3{
+
+position: relative;
+left:400px;
+
+}
+
+h4{
+
+position: relative;
+left:400px;
+
+}
+
+
+h5{
+
+position: relative;
+left:400px;
+}
+
+h6{
+
+position: relative;
+left: 400px;
+
+
+}
+
+p3{
+
+  color: red;
+  font-size: 25px;
+
+}
+
+.tarea{
+
+resize: none;
+ width: 700px;
+ height: 200px;
+ font-size: 25px;
+border:none;
+
+}
+
+
+
+.arrow1{
+
+position: relative;
+left: 650px;
+
+}
+.arrow2{
+
+position: relative;
+left: 1250px;
+
+}
+
+.dp{
+
+opacity: 0.5%;
+
+}
+
+.nextbtn{
+
+
+  opacity: 0.5%;
+
+
+}
+
+.nb{
+
+  width: 10%;
+  background-color: #90EE90;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  left: 310px;
+
+
+}
+
+
+
+.exitbtn{
+
+  opacity: 0.5%;
+
+
+}
+
+.eb{
+
+width: 10%;
+  background-color: #90EE90;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  left: 1010px;
+
+}
+
+.subbtn {
+  width: 10%;
+  background-color: #90EE90;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  left: 200px;
+
+}
+
+.subbtn:hover {
+  background-color: #2980B9;
+}
+
+.nb:hover {
+
+  background-color: #2980B9;
+}
+
+.eb:hover {
+
+  background-color: #2980B9;
+}
+
+.af{
+
+font-size: 25px;
+
+}
+
+.ns{
+
+font-size: 25px;
+
+}
+
+p2{
+
+font-size: 21px;
+padding: 10px;
+
+}

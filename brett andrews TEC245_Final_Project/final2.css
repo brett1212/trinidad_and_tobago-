@@ -1,0 +1,60 @@
+body{
+
+
+height: 100vh;
+position: absolute;
+width: 1280px;
+
+
+
+
+}
+
+h1{
+
+position: relative;
+left:600px;
+}
+
+
+h2{
+
+position: relative;
+left:500px;
+}
+
+
+h3{
+
+position: relative;
+left:500px;
+
+
+}
+
+h4{
+
+position: relative;
+left:500px;
+
+
+}
+
+.btn{
+
+  width: 10%;
+  background-color: #90EE90;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  left: 310px;
+
+
+}
+
+.btn:hover {
+  background-color: #2980B9;
+}
